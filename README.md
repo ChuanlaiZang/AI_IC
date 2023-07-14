@@ -2,6 +2,7 @@
 This is a summary of AI, machine learning, deep learning in the field of digital IC design, verification.
 
 这里列举不同领域的论文，文件夹中是实际的应用案例场景。
+所有资料收集与互联网，不用在商业用途，如有侵权，请联系。
 # Review paper:
 1. AI/ML algorithms and applications in VLSI design and technology
 https://www.sciencedirect.com/science/article/pii/S0167926023000901#sec5
